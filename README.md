@@ -1,4 +1,4 @@
-# Coursera_DataScience_7_RegressionModels
+# Data Science Specialization on Coursera: Regression Models
 
 The most comfortable way to preview html files is click the following link: 
 
